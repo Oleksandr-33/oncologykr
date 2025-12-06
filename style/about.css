@@ -1,0 +1,33 @@
+.about-us {
+    position: relative;
+    width: 1440px;
+    height: 4468px;
+    background: #FFFFFF;
+}
+
+.departments-heading {
+    position: absolute;
+    width: 625px;
+    height: 44px;
+    left: 97px;
+    top: 2873px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 110%;
+    color: #000000;
+}
+
+.main-paragraph {
+    position: absolute;
+    height: 510px;
+    left: 23.82%;
+    right: 17.71%;
+    top: 2280px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+
